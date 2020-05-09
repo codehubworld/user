@@ -3,4 +3,4 @@
    become: true
    tasks:
       - name: user creation
-        user: name=raju state=present
+        user: name=raju1 state=present
